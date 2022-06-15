@@ -1,4 +1,7 @@
 {
+  "extends": [
+    "github>hasanwhitesource/16067-repo-a:renovate.json"
+  ],
   "packageRules": [
     {
       "matchManagers": ["github-actions"],
