@@ -1,6 +1,7 @@
 {
   "extends": [
-    "github>hasanwhitesource/16067-repo-a:renovate.json"
+    "github>hasanwhitesource/16067-repo-a:renovate.json",
+    "config:js-app"
   ],
   "packageRules": [
     {
